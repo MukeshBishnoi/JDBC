@@ -17,7 +17,7 @@ public class Application {
 		
 		System.out.println(rowInserted+"row[s] inserted");
 		
-		/*System.out.println(dao.find(456));
+		System.out.println(dao.find(456));
 		
 		int del;
 		String custName = "kkkk";
@@ -26,7 +26,7 @@ public class Application {
 		if(del==0)
 			System.out.println(" !! Invalid Input, Please insert another name  !!");
 		else
-			System.out.println("Name "+custName+" Succecfully deleted from Database");*/
+			System.out.println("Name "+custName+" Succecfully deleted from Database");
 
 	}
 
